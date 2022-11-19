@@ -1,0 +1,7 @@
+obj/
+releases/
+.cache/
+compile_commands.json
+sfx_mute
+/a.out
+
