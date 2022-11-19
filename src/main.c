@@ -47,8 +47,6 @@ int main(int argc, char **argv)
 
     emscripten_set_main_loop_arg(emloop, g_prog, -1, 1);
 
-    printf("Game end\n");
-
 cleanup:
     /* audio_cleanup(); */
 
